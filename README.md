@@ -9,12 +9,21 @@ I love to explore my creative side through the code I write.
 ## Skills 👩‍💻
 
 ### Languages
-![C#]https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/csharp/csharp_512x512.png?raw=true
-
-
-### Frameworks
+![C#](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/csharp/csharp_64x64.png?raw=true) 
+![Swift](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/swift/swift_64x64.png?raw=true) 
+![TypeScript](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/typescript/typescript_64x64.png?raw=true) 
+![JavaScript](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/javascript/javascript_64x64.png?raw=true) 
+![CSS](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/css/css_64x64.png?raw=true) 
+![HTML](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/html/html_64x64.png?raw=true) 
 
 <!--
+### Frameworks & Libraries
+
+**C#:**  ASP.NET | EntityFramework
+
+**TS/JS:**  React | Node.js
+
+
 **AnastasiaNilsson/AnastasiaNilsson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
