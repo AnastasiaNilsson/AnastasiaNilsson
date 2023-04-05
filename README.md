@@ -14,9 +14,9 @@ I love to explore my creative side through the code I write.
 ![CSS](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/css/css_64x64.png?raw=true) 
 ![HTML](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/html/html_64x64.png?raw=true) 
 
-**Frameworks:** ASP.NET, EntityFramework, React, Node.js, SwiftUI, RazorPages, Blazor
+**Frameworks:** ASP.NET, React, Node.js, SwiftUI, RazorPages, Blazor, EntityFramework, Dapper, Express.js
 
-**Technologies:** Git, Azure, Dapper, VSCode/XCode/Rider
+**Technologies:** Git, Azure, Docker, VSCode/XCode/Rider
 
 **Work Methods:** Mob Programning, Agile, TDD
 
