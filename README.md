@@ -18,7 +18,7 @@ I love to explore my creative side through the code I write.
 
 **Technologies:** Git, Azure, Docker, VSCode/XCode/Rider
 
-**Work Methods:** Mob Programning, Agile, TDD
+**Work Methods:** Mob Programming, Agile, TDD
 
 
 ## ✉️ Contact
